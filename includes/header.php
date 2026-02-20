@@ -18,6 +18,9 @@
     
     <!-- Feather Icons Script -->
     <script src="https://unpkg.com/feather-icons"></script>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="assets/images/ai-rating-new-logo-final-removebg-preview-TcEMTq65.png">
 </head>
 <body class="bg-brand-background text-brand-text font-raleway overflow-x-hidden antialiased selection:bg-brand-primary/20 selection:text-brand-primary">
 
