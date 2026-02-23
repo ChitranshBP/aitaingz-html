@@ -39,6 +39,7 @@
                 <a href="#features" class="relative px-3.5 py-1.5 text-sm font-semibold text-gray-500 hover:text-gray-900 transition-colors duration-200 rounded-lg hover:bg-gray-100/70 group">Features</a>
                 <a href="#process" class="relative px-3.5 py-1.5 text-sm font-semibold text-gray-500 hover:text-gray-900 transition-colors duration-200 rounded-lg hover:bg-gray-100/70 group">How it works</a>
                 <a href="#pricing" class="relative px-3.5 py-1.5 text-sm font-semibold text-gray-500 hover:text-gray-900 transition-colors duration-200 rounded-lg hover:bg-gray-100/70 group">Pricing</a>
+                <a href="#faq" class="relative px-3.5 py-1.5 text-sm font-semibold text-gray-500 hover:text-gray-900 transition-colors duration-200 rounded-lg hover:bg-gray-100/70 group">FAQ</a>
                 <a href="#enterprise" class="relative px-3.5 py-1.5 text-sm font-semibold text-gray-500 hover:text-gray-900 transition-colors duration-200 rounded-lg hover:bg-gray-100/70 group">Enterprise</a>
             </div>
 
@@ -47,7 +48,7 @@
                 <a href="#login" class="px-4 py-2 text-sm font-semibold text-gray-500 hover:text-gray-900 transition-colors duration-200 rounded-lg hover:bg-gray-100/70">
                     Log in
                 </a>
-                <a href="#signup" class="inline-flex items-center gap-1.5 px-4 py-2 rounded-xl bg-gray-900 text-white text-sm font-semibold shadow-md shadow-black/20 hover:bg-gray-800 transition-colors duration-200 hover:scale-105 active:scale-95 transform">
+                <a href="#signup" class="inline-flex items-center gap-1.5 px-4 py-2 rounded-xl bg-brand-primary text-white text-sm font-semibold shadow-md shadow-brand-primary/20 hover:bg-brand-secondary transition-colors duration-200 hover:scale-105 active:scale-95 transform">
                     Get Started
                     <i data-feather="arrow-right" class="w-3 h-3"></i>
                 </a>
@@ -68,6 +69,7 @@
             <a href="#features" class="mobile-link flex items-center px-4 py-3 rounded-xl text-sm font-semibold text-gray-600 hover:text-gray-900 hover:bg-gray-100/80 transition-colors duration-150">Features</a>
             <a href="#process" class="mobile-link flex items-center px-4 py-3 rounded-xl text-sm font-semibold text-gray-600 hover:text-gray-900 hover:bg-gray-100/80 transition-colors duration-150">How it works</a>
             <a href="#pricing" class="mobile-link flex items-center px-4 py-3 rounded-xl text-sm font-semibold text-gray-600 hover:text-gray-900 hover:bg-gray-100/80 transition-colors duration-150">Pricing</a>
+            <a href="#faq" class="mobile-link flex items-center px-4 py-3 rounded-xl text-sm font-semibold text-gray-600 hover:text-gray-900 hover:bg-gray-100/80 transition-colors duration-150">FAQ</a>
             <a href="#enterprise" class="mobile-link flex items-center px-4 py-3 rounded-xl text-sm font-semibold text-gray-600 hover:text-gray-900 hover:bg-gray-100/80 transition-colors duration-150">Enterprise</a>
         </div>
 
@@ -75,7 +77,7 @@
             <a href="#login" class="flex items-center justify-center px-4 py-3 rounded-xl text-sm font-semibold text-gray-600 border border-gray-200 hover:bg-gray-50 transition-colors">
                 Log in
             </a>
-            <a href="#signup" class="flex items-center justify-center gap-2 px-4 py-3 rounded-xl text-sm font-semibold text-white bg-gray-900 hover:bg-gray-800 transition-colors">
+            <a href="#signup" class="flex items-center justify-center gap-2 px-4 py-3 rounded-xl text-sm font-semibold text-white bg-brand-primary hover:bg-brand-secondary transition-colors">
                 Get Started <i data-feather="arrow-right" class="w-3 h-3"></i>
             </a>
         </div>
