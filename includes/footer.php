@@ -6,7 +6,7 @@
         <div class="max-w-7xl mx-auto px-6 sm:px-8 lg:px-12 pt-16 pb-8 relative z-10 text-white">
 
             <!-- Top Section: CTA + Newsletter -->
-            <div class="flex flex-col lg:flex-row justify-between items-start lg:items-center gap-10 border-b border-white/[0.06] pb-16 mb-16">
+            <!-- <div class="flex flex-col lg:flex-row justify-between items-start lg:items-center gap-10 border-b border-white/[0.06] pb-16 mb-16">
                 <div class="max-w-xl">
                     <h2 class="text-3xl md:text-4xl font-bold text-white tracking-tight mb-4">
                         Ready to transform your reputation?
@@ -27,7 +27,7 @@
                         Start your 14-day free trial. No credit card required.
                     </p>
                 </div>
-            </div>
+            </div> -->
 
             <!-- Main Grid -->
             <div class="grid grid-cols-2 md:grid-cols-12 gap-10 lg:gap-12 mb-20">

@@ -45,11 +45,8 @@
 
             <!-- Desktop CTAs -->
             <div class="hidden md:flex items-center gap-2">
-                <a href="#login" class="px-4 py-2 text-sm font-semibold text-gray-500 hover:text-gray-900 transition-colors duration-200 rounded-lg hover:bg-gray-100/70">
-                    Log in
-                </a>
-                <a href="#signup" class="inline-flex items-center gap-1.5 px-4 py-2 rounded-xl bg-brand-primary text-white text-sm font-semibold shadow-md shadow-brand-primary/20 hover:bg-brand-secondary transition-colors duration-200 hover:scale-105 active:scale-95 transform">
-                    Get Started
+                <a href="https://app.airatingz.com/#/login" class="inline-flex items-center gap-1.5 px-4 py-2 rounded-xl bg-brand-primary text-white text-sm font-semibold shadow-md shadow-brand-primary/20 hover:bg-brand-secondary transition-colors duration-200 hover:scale-105 active:scale-95 transform">
+                    Login
                     <i data-feather="arrow-right" class="w-3 h-3"></i>
                 </a>
             </div>
@@ -74,11 +71,8 @@
         </div>
 
         <div class="px-4 pb-4 pt-1 border-t border-gray-100 flex flex-col gap-2">
-            <a href="#login" class="flex items-center justify-center px-4 py-3 rounded-xl text-sm font-semibold text-gray-600 border border-gray-200 hover:bg-gray-50 transition-colors">
-                Log in
-            </a>
-            <a href="#signup" class="flex items-center justify-center gap-2 px-4 py-3 rounded-xl text-sm font-semibold text-white bg-brand-primary hover:bg-brand-secondary transition-colors">
-                Get Started <i data-feather="arrow-right" class="w-3 h-3"></i>
+            <a href="https://app.airatingz.com/#/login" class="flex items-center justify-center gap-2 px-4 py-3 rounded-xl text-sm font-semibold text-white bg-brand-primary hover:bg-brand-secondary transition-colors">
+                Login <i data-feather="arrow-right" class="w-3 h-3"></i>
             </a>
         </div>
     </div>

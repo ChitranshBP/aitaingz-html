@@ -47,10 +47,10 @@
 
                 <!-- CTAs -->
                 <div data-aos="fade-up" data-aos-delay="300" class="flex flex-col sm:flex-row gap-3 mb-10 justify-center">
-                    <button class="inline-flex items-center justify-center gap-2 px-8 py-3.5 rounded-xl bg-brand-primary text-white text-base font-bold shadow-[0_4px_20px_rgba(31,94,107,0.30)] hover:bg-brand-secondary transition-colors duration-200 hover:scale-105 active:scale-95 transform">
+                    <a href="https://app.airatingz.com/#/login" class="inline-flex items-center justify-center gap-2 px-8 py-3.5 rounded-xl bg-brand-primary text-white text-base font-bold shadow-[0_4px_20px_rgba(31,94,107,0.30)] hover:bg-brand-secondary transition-colors duration-200 hover:scale-105 active:scale-95 transform">
                         Start for free
                         <i data-feather="arrow-right" class="w-4 h-4"></i>
-                    </button>
+                    </a>
                     <button class="inline-flex items-center justify-center gap-2 px-8 py-3.5 rounded-xl bg-white border border-gray-200 text-gray-700 text-base font-semibold shadow-[0_2px_8px_rgba(0,0,0,0.06)] hover:border-gray-300 hover:bg-gray-50 transition-colors duration-200 hover:scale-105 active:scale-95 transform">
                         <span class="flex items-center justify-center w-6 h-6 rounded-full bg-brand-primary/10">
                             <i data-feather="play" class="text-brand-primary w-2.5 h-2.5 ml-0.5"></i>
@@ -735,7 +735,7 @@
                             <i data-feather="check" class="text-brand-primary w-4 h-4"></i> Basic analytics
                         </div>
                     </div>
-                    <button class="w-full py-3 inline-flex items-center justify-center gap-1.5 text-sm rounded-xl font-bold bg-gray-100 text-gray-700 hover:bg-gray-200 transition-colors">Start Free Trial <i data-feather="arrow-right" class="w-3.5 h-3.5"></i></button>
+                    <a href="https://app.airatingz.com/#/login" class="w-full py-3 inline-flex items-center justify-center gap-1.5 text-sm rounded-xl font-bold bg-gray-100 text-gray-700 hover:bg-gray-200 transition-colors">Start Free Trial <i data-feather="arrow-right" class="w-3.5 h-3.5"></i></a>
                 </div>
 
                 <!-- Plan 2 (Popular) -->
@@ -760,7 +760,7 @@
                             <i data-feather="check" class="text-brand-primary w-4 h-4"></i> Priority support
                         </div>
                     </div>
-                    <button class="w-full py-3 inline-flex items-center justify-center gap-1.5 text-sm rounded-xl font-bold bg-brand-primary text-white hover:bg-brand-secondary transition-colors shadow-md">Start Free Trial <i data-feather="arrow-right" class="w-3.5 h-3.5"></i></button>
+                    <a href="https://app.airatingz.com/#/login" class="w-full py-3 inline-flex items-center justify-center gap-1.5 text-sm rounded-xl font-bold bg-brand-primary text-white hover:bg-brand-secondary transition-colors shadow-md">Start Free Trial <i data-feather="arrow-right" class="w-3.5 h-3.5"></i></a>
                 </div>
 
                 <!-- Plan 3 -->
@@ -784,7 +784,7 @@
                             <i data-feather="check" class="text-brand-primary w-4 h-4"></i> AI responses
                         </div>
                     </div>
-                    <button class="w-full py-3 inline-flex items-center justify-center gap-1.5 text-sm rounded-xl font-bold bg-gray-100 text-gray-700 hover:bg-gray-200 transition-colors">Start Free Trial <i data-feather="arrow-right" class="w-3.5 h-3.5"></i></button>
+                    <a href="https://app.airatingz.com/#/login" class="w-full py-3 inline-flex items-center justify-center gap-1.5 text-sm rounded-xl font-bold bg-gray-100 text-gray-700 hover:bg-gray-200 transition-colors">Start Free Trial <i data-feather="arrow-right" class="w-3.5 h-3.5"></i></a>
                 </div>
             </div>
         </div>
@@ -977,15 +977,15 @@
             </p>
             
             <div data-aos="fade-up" data-aos-delay="200" class="flex flex-col sm:flex-row items-center justify-center gap-4">
-                <button class="group relative px-8 py-4 bg-white text-brand-primary font-bold text-lg rounded-xl shadow-[0_10px_40px_-10px_rgba(0,0,0,0.2)] hover:shadow-[0_20px_60px_-15px_rgba(0,0,0,0.3)] transition-all duration-300 hover:-translate-y-1">
+                <a href="https://app.airatingz.com/#/login" class="group relative px-8 py-4 bg-white text-brand-primary font-bold text-lg rounded-xl shadow-[0_10px_40px_-10px_rgba(0,0,0,0.2)] hover:shadow-[0_20px_60px_-15px_rgba(0,0,0,0.3)] transition-all duration-300 hover:-translate-y-1">
                     <span class="flex items-center justify-center gap-2">
                         Start Free Trial
                         <i data-feather="arrow-right" class="transition-transform group-hover:translate-x-1 w-5 h-5"></i>
                     </span>
-                </button>
-                <button class="px-8 py-4 bg-transparent border border-white/30 text-white font-bold text-lg rounded-xl hover:bg-white/10 hover:border-white/50 transition-all duration-300">
+                </a>
+                <a href="https://app.airatingz.com/#/login" class="px-8 py-4 bg-transparent border border-white/30 text-white font-bold text-lg rounded-xl hover:bg-white/10 hover:border-white/50 transition-all duration-300">
                     Book a Demo
-                </button>
+                </a>
             </div>
 
             <div data-aos="fade-up" data-aos-delay="400" class="mt-12 flex flex-col sm:flex-row items-center justify-center gap-4 sm:gap-8 text-sm font-medium text-white/90">
